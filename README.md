@@ -60,7 +60,6 @@ I enjoy working with modern JavaScript, Python, and cloud‑ready web apps. [web
 
 ## 📦 Sample Repos (You Can Fill Later)
 
-this repo is for learning github.
 
 You can add links one by one when you create projects:
 
